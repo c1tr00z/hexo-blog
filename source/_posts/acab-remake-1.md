@@ -1,5 +1,5 @@
 ---
-title: A.C.A.B.: Remake: Римейк первой игры на Unity3D, но на Unreal Engine 4 (Потому что почему бы и нет) (Попытка №2)
+title: A.C.A.B. Remake: Римейк первой игры на Unity3D, но на Unreal Engine 4 (Потому что почему бы и нет) (Попытка №2)
 date: 2018-08-30 23:29:27
 tags:
 ---
